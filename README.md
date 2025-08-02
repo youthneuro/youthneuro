@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ryan 👋
 
-<!--
-**youthneuro/youthneuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a neuroscience and computer science student at UPenn!
 
-Here are some ideas to get you started:
+## 🔧 Technologies
+- JavaScript / TypeScript
+- React / Node.js / Express
+- Python / Django
+- PostgreSQL / MongoDB
+- Machine Learning / Data Science
+- Google Firebase / Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: john@example.com
+- LinkedIn: [linkedin.com/in/johnsmith](https://linkedin.com/in/johnsmith)
+- Google Scholar: [https://scholar.google.com/citations?user=ummVlJ4AAAAJ&hl=en](https://scholar.google.com/citations?user=ummVlJ4AAAAJ&hl=en)
+  
