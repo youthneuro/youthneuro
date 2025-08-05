@@ -11,7 +11,6 @@ I'm a neuroscience and computer science student at UPenn!
 - Google Firebase / Supabase
 
 ## 📫 Contact Me
-- Email: john@example.com
-- LinkedIn: [linkedin.com/in/johnsmith](https://linkedin.com/in/johnsmith)
+- Email: cho6@sas.upenn.edu
 - Google Scholar: [https://scholar.google.com/citations?user=ummVlJ4AAAAJ&hl=en](https://scholar.google.com/citations?user=ummVlJ4AAAAJ&hl=en)
   
